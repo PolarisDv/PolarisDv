@@ -2,23 +2,33 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+Fullstack+Developer;Specializing+in+web+iOS+and+Android+.+.+.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+AI+Developer+.+.+.;)](https://git.io/typing-svg)
   
 
 </h1>
 
-Key skills include:
+🔹 AI & Machine Learning
+Machine Learning & Deep Learning (TensorFlow, PyTorch)
+Natural Language Processing (NLP) & Computer Vision
+AI Model Deployment & MLOps
 
-Promoting and communicating new ideas<br>
-Creating process improvements<br>
-Instituting new technologies<br>
-Writing maintainable clear/high-quality code<br>
-Ensuring code is scalable and responsive<br>
-Please consider following highlights<br>
+🔹 Web Development
+Frontend: React, Next.js, TypeScript
+Backend: Node.js, Python (Django, Flask, FastAPI)
+Databases: PostgreSQL, MongoDB, Firebase
 
-🥇 Developed 50+ iOS applications using XCode, Swift, ObjectiveC, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.<br>
-🥇 Developed 40+ android applications using Android Studio, Kotlin, Java.<br>
-🥇 Great skills in Payment gateway integration(apple/google pay, PayPal, stripe...), SNS login/sharing, Unit/UI Testing, PHP, Node.js, Nest, Express, Monghdb/PostgreSQL/MySQL, JS/TS, Angular, React/Redux/Redux Saga/React hook, Agile/Kanban/Scrum methodologies, SDLC, SOLID/UniDirectional Software Design, MVC/MVVM architecture, RestfulAPI, GraphQL, Jira/Atlassian, CI/CD.
+🔹 Cloud & DevOps
+Cloud: AWS, GCP, Azure
+Containers: Docker, Kubernetes
+CI/CD & Serverless Architectures
+
+🔹 Data & Big Data
+Data Processing: Pandas, NumPy, Apache Spark
+APIs & Microservices Architecture
+
+🔹 Other Skills
+Version Control: Git, GitHub, GitLab
+Agile Development & Problem-Solving
 
 
 <p align="centre">
