@@ -2,33 +2,23 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+AI+Developer+.+.+.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+Fullstack+Developer;Specializing+in+web+iOS+and+Android+.+.+.;)](https://git.io/typing-svg)
   
 
 </h1>
 
-🔹 AI & Machine Learning
-Machine Learning & Deep Learning (TensorFlow, PyTorch)
-Natural Language Processing (NLP) & Computer Vision
-AI Model Deployment & MLOps
+Key skills include:
 
-🔹 Web Development
-Frontend: React, Next.js, TypeScript
-Backend: Node.js, Python (Django, Flask, FastAPI)
-Databases: PostgreSQL, MongoDB, Firebase
+Promoting and communicating new ideas<br>
+Creating process improvements<br>
+Instituting new technologies<br>
+Writing maintainable clear/high-quality code<br>
+Ensuring code is scalable and responsive<br>
+Please consider following highlights<br>
 
-🔹 Cloud & DevOps
-Cloud: AWS, GCP, Azure
-Containers: Docker, Kubernetes
-CI/CD & Serverless Architectures
-
-🔹 Data & Big Data
-Data Processing: Pandas, NumPy, Apache Spark
-APIs & Microservices Architecture
-
-🔹 Other Skills
-Version Control: Git, GitHub, GitLab
-Agile Development & Problem-Solving
+🥇 Developed 50+ iOS applications using XCode, Swift, ObjectiveC, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.<br>
+🥇 Developed 40+ android applications using Android Studio, Kotlin, Java.<br>
+🥇 Great skills in Payment gateway integration(apple/google pay, PayPal, stripe...), SNS login/sharing, Unit/UI Testing, PHP, Node.js, Nest, Express, Monghdb/PostgreSQL/MySQL, JS/TS, Angular, React/Redux/Redux Saga/React hook, Agile/Kanban/Scrum methodologies, SDLC, SOLID/UniDirectional Software Design, MVC/MVVM architecture, RestfulAPI, GraphQL, Jira/Atlassian, CI/CD.
 
 
 <p align="centre">
@@ -79,7 +69,8 @@ Agile Development & Problem-Solving
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="www.linkedin.com/in/vincent-antony-a60460359" target="_blank"><img src="https://img.shields.io/badge/-vincentantony-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:antvi137@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-antvi137@gmail.com-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://topstar88.github.io/" target="_blank"><img src="https://img.shields.io/badge/-tony%20li-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/topstar88" target="_blank"><img src="https://img.shields.io/badge/-tonylii-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:topstar88@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-topstar88@outlook.com-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="tel:+15754041672"><img src="https://img.shields.io/badge/-%2B1(575)4041672-341672?style=for-the-badge&logo=phonepe&logoColor=white"/></a>
 </p>
