@@ -65,12 +65,3 @@ Please consider following highlights<br>
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
-
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href="https://topstar88.github.io/" target="_blank"><img src="https://img.shields.io/badge/-tony%20li-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/topstar88" target="_blank"><img src="https://img.shields.io/badge/-tonylii-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:topstar88@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-topstar88@outlook.com-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="tel:+15754041672"><img src="https://img.shields.io/badge/-%2B1(575)4041672-341672?style=for-the-badge&logo=phonepe&logoColor=white"/></a>
-</p>
